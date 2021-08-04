@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    printf("File2");
+    int a, b ;
 
     return 0;
 }
